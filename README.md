@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/SaiLokitha/Leetcode-Solutions/tree/master/1603-running-sum-of-1d-array) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/SaiLokitha/Leetcode-Solutions/tree/master/1950-sign-of-the-product-of-an-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -12,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1950-sign-of-the-product-of-an-array](https://github.com/SaiLokitha/Leetcode-Solutions/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2998-count-symmetric-integers](https://github.com/SaiLokitha/Leetcode-Solutions/tree/master/2998-count-symmetric-integers) |
 ## Enumeration
 |  |
