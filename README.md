@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/SaiLokitha/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0202-happy-number](https://github.com/SaiLokitha/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/SaiLokitha/Leetcode-Solutions/tree/master/0263-ugly-number) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/SaiLokitha/Leetcode-Solutions/tree/master/1950-sign-of-the-product-of-an-array) |
@@ -29,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/SaiLokitha/Leetcode-Solutions/tree/master/0202-happy-number) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/SaiLokitha/Leetcode-Solutions/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
