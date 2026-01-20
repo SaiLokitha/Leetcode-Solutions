@@ -1,17 +1,17 @@
 class Solution {
     public int longestPalindrome(String s) {
         char[] c=s.toCharArray();
-        HashMap<Character,Integer> Map=new HashMap<>();
+        int[] count=new int[128];
         for(char ch:c){
-            Map.put(ch,Map.getOrDefault(ch,0)+1);
+            count[ch]++;
         }
         int sum=0;
         boolean hasOdd=false;
-        for(int count:Map.values()){
-            if(count%2==0){
-                sum+=count;
+        for(int num:count){
+            if(num%2==0){
+                sum+=num;
             } else {
-                sum+=count-1;
+                sum+=num-1;
                 hasOdd=true;
             }
         }
