@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/SaiLokitha/Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/SaiLokitha/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0202-happy-number](https://github.com/SaiLokitha/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/SaiLokitha/Leetcode-Solutions/tree/master/0263-ugly-number) |
