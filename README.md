@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/SaiLokitha/Leetcode-Solutions/tree/master/0263-ugly-number) |
 | [0507-perfect-number](https://github.com/SaiLokitha/Leetcode-Solutions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/SaiLokitha/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
+| [1688-count-of-matches-in-tournament](https://github.com/SaiLokitha/Leetcode-Solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/SaiLokitha/Leetcode-Solutions/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2235-add-two-integers](https://github.com/SaiLokitha/Leetcode-Solutions/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/SaiLokitha/Leetcode-Solutions/tree/master/2413-smallest-even-multiple) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/SaiLokitha/Leetcode-Solutions/tree/master/0258-add-digits) |
+| [1688-count-of-matches-in-tournament](https://github.com/SaiLokitha/Leetcode-Solutions/tree/master/1688-count-of-matches-in-tournament) |
 ## Dynamic Programming
 |  |
 | ------- |
