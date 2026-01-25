@@ -8,7 +8,6 @@ class Solution {
                 count++;
             }
         }
-        System.out.println(count);
         return count;
         
     }
