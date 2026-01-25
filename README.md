@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/SaiLokitha/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/SaiLokitha/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/SaiLokitha/Leetcode-Solutions/tree/master/0263-ugly-number) |
+| [0509-fibonacci-number](https://github.com/SaiLokitha/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/SaiLokitha/Leetcode-Solutions/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2235-add-two-integers](https://github.com/SaiLokitha/Leetcode-Solutions/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/SaiLokitha/Leetcode-Solutions/tree/master/2413-smallest-even-multiple) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/SaiLokitha/Leetcode-Solutions/tree/master/0050-powx-n) |
+| [0509-fibonacci-number](https://github.com/SaiLokitha/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 ## Number Theory
 |  |
 | ------- |
@@ -72,4 +74,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/SaiLokitha/Leetcode-Solutions/tree/master/0258-add-digits) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/SaiLokitha/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/SaiLokitha/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
