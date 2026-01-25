@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/SaiLokitha/Leetcode-Solutions/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/SaiLokitha/Leetcode-Solutions/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/SaiLokitha/Leetcode-Solutions/tree/master/2469-convert-the-temperature) |
+| [2652-sum-multiples](https://github.com/SaiLokitha/Leetcode-Solutions/tree/master/2652-sum-multiples) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/SaiLokitha/Leetcode-Solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [2998-count-symmetric-integers](https://github.com/SaiLokitha/Leetcode-Solutions/tree/master/2998-count-symmetric-integers) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/SaiLokitha/Leetcode-Solutions/tree/master/3995-gcd-of-odd-and-even-sums) |
