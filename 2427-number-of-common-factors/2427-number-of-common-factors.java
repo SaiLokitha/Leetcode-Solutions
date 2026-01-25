@@ -1,0 +1,15 @@
+class Solution {
+    public int commonFactors(int a, int b) {
+        int max=Math.max(a,b);
+        int count=0;
+        int min=Math.min(a,b);
+        for(int i=1;i<=min;i++){
+            if(max%i==0 && min%i==0){
+                count++;
+            }
+        }
+        System.out.println(count);
+        return count;
+        
+    }
+}
