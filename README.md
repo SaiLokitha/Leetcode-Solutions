@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1950-sign-of-the-product-of-an-array](https://github.com/SaiLokitha/Leetcode-Solutions/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2235-add-two-integers](https://github.com/SaiLokitha/Leetcode-Solutions/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/SaiLokitha/Leetcode-Solutions/tree/master/2413-smallest-even-multiple) |
+| [2427-number-of-common-factors](https://github.com/SaiLokitha/Leetcode-Solutions/tree/master/2427-number-of-common-factors) |
 | [2469-convert-the-temperature](https://github.com/SaiLokitha/Leetcode-Solutions/tree/master/2469-convert-the-temperature) |
 | [2652-sum-multiples](https://github.com/SaiLokitha/Leetcode-Solutions/tree/master/2652-sum-multiples) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/SaiLokitha/Leetcode-Solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2427-number-of-common-factors](https://github.com/SaiLokitha/Leetcode-Solutions/tree/master/2427-number-of-common-factors) |
 | [2998-count-symmetric-integers](https://github.com/SaiLokitha/Leetcode-Solutions/tree/master/2998-count-symmetric-integers) |
 ## Hash Table
 |  |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/SaiLokitha/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [2413-smallest-even-multiple](https://github.com/SaiLokitha/Leetcode-Solutions/tree/master/2413-smallest-even-multiple) |
+| [2427-number-of-common-factors](https://github.com/SaiLokitha/Leetcode-Solutions/tree/master/2427-number-of-common-factors) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/SaiLokitha/Leetcode-Solutions/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## String
 |  |
