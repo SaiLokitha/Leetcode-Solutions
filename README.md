@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/SaiLokitha/Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/SaiLokitha/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0202-happy-number](https://github.com/SaiLokitha/Leetcode-Solutions/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/SaiLokitha/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/SaiLokitha/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/SaiLokitha/Leetcode-Solutions/tree/master/0263-ugly-number) |
 | [0412-fizz-buzz](https://github.com/SaiLokitha/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/SaiLokitha/Leetcode-Solutions/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/SaiLokitha/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/SaiLokitha/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 ## Number Theory
 |  |
@@ -92,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/SaiLokitha/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/SaiLokitha/Leetcode-Solutions/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
