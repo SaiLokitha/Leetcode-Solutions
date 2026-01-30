@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/SaiLokitha/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/SaiLokitha/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/SaiLokitha/Leetcode-Solutions/tree/master/0263-ugly-number) |
+| [0412-fizz-buzz](https://github.com/SaiLokitha/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/SaiLokitha/Leetcode-Solutions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/SaiLokitha/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/SaiLokitha/Leetcode-Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/SaiLokitha/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/SaiLokitha/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/SaiLokitha/Leetcode-Solutions/tree/master/0409-longest-palindrome) |
+| [0412-fizz-buzz](https://github.com/SaiLokitha/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 ## Greedy
 |  |
 | ------- |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/SaiLokitha/Leetcode-Solutions/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/SaiLokitha/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [1688-count-of-matches-in-tournament](https://github.com/SaiLokitha/Leetcode-Solutions/tree/master/1688-count-of-matches-in-tournament) |
 ## Dynamic Programming
 |  |
