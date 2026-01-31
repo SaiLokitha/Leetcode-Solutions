@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/SaiLokitha/Leetcode-Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1688-count-of-matches-in-tournament](https://github.com/SaiLokitha/Leetcode-Solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/SaiLokitha/Leetcode-Solutions/tree/master/1950-sign-of-the-product-of-an-array) |
+| [2119-a-number-after-a-double-reversal](https://github.com/SaiLokitha/Leetcode-Solutions/tree/master/2119-a-number-after-a-double-reversal) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/SaiLokitha/Leetcode-Solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/SaiLokitha/Leetcode-Solutions/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2235-add-two-integers](https://github.com/SaiLokitha/Leetcode-Solutions/tree/master/2235-add-two-integers) |
